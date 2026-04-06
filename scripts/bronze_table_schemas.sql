@@ -6,7 +6,7 @@ The script is a format used for creating one to one (Schema) of the data from th
 The example below is for cust_info table. 
 */
 
-WARNING: Ensure to take backups of all the tables before running this script to avoid losing data
+--WARNING: Ensure to take backups of all the tables before running this script to avoid losing data
 
 USE [DataWarehouse]
 GO
