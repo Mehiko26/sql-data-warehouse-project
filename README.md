@@ -5,14 +5,14 @@ Welcome to the **Data Warehous and Analytics Project** repository
 This project demostrates a comprehensiev data warehousing and analytics solution, from building a data warehoue to generating acionable insights. Designed as a portfolio project which highlight the industry best practices in data engineering and analytics
 
 
-##Project requiements
+## Project requiements
 
-###Builing the data warehouse (Data Engineering)
+### Builing the data warehouse (Data Engineering)
 
 #### Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical eporting and informed decision-making.
 
-####Specificaion
+#### Specificaion
 
 -**Data Sources** Import data rom two source system (CRM and ERP) provided as CSV files.
 - **Data Qaulity** Cleasne and resolve data quality issues prior to analysis
@@ -25,7 +25,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 #### Objective
 
-develop SQL-based anlyics to deliver detailed insights into:
+Develop SQL-based anlyics to deliver detailed insights into:
 - **customer behaviour**
 - **product performance**
 - **sales trends**
